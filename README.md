@@ -1,3 +1,3 @@
 # Siber Güvenlik
 
-Bu GitHub deposunda siber güvenlik eğitimlerinde kullanılmak üzere bir müfredat hazırlanması hedeflenmektedir.
+Bu GitHub deposunda siber güvenlik eğitimlerinde kullanılmak üzere bir müfredat hazırlanması hedeflenmektedir. Bu eğitimle birlikte siber ortamda kurum, kuruluş ve kullanıcıların varlıklarını korumak amacıyla kullanılan araçlar, politikalar, güvenlik kavramları, güvenlik teminatları, kılavuzlar, risk yönetimi yaklaşımları, faaliyetler, eğitimler, en iyi uygulamalar ve teknolojiler bütününü ele alarak özellikle yeni başlayanlardan ileri düzeye kadar kullanıcıların ihtiyaçlarını karşılamak hedeflenmektedir. Ancak hiçbir rehber ve eğitim bir kullanıcıyı tek yönlü olarak mükemmele yaklaştırmaz. Mükemmele yaklaşmak her daim araştırmaktan ve çok hızlı gelişen teknolojiye uyum sağlamaktan geçer.
