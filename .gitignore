@@ -1,0 +1,28 @@
+# Yerel ayar dosyaları
+*.local.json
+*.local.md
+
+# Editör ve IDE ayarları
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*~
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ortam değişkenleri ve gizli bilgiler
+.env
+.env.*
+*.pem
+*.key
+
+# LAB çıktıları (sanal makine imajları, paket yakalamaları vb.)
+*.ova
+*.vmdk
+*.iso
+*.pcap
+*.pcapng
